@@ -1,6 +1,7 @@
 # assignment-1
 first project
-# problem one Student Grade Calculator
+# problem one 
+#Student Grade Calculator
 student_name = input("enter your name : ")
 
 math = int(input("enter your marks in math : "))
